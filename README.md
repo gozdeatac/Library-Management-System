@@ -15,4 +15,7 @@ WELCOME TO LIBRARY
 Enter your choice (1-4):
 
 
-2) When the user wants to add a book to the list, the books.txt file is opened and the added book is saved in this file. When you want to delete a book from the library or list all books, the operations performed in the menu are also performed in this text file. To log out of the system, the user must press 4. If the user clicks on numbers other than those in the menu, the user is warned.
+
+
+
+2)  When the user wants to add a book to the list, the books.txt file is opened and the added book is saved in this file. When you want to delete a book from the library or list all books, the operations performed in the menu are also performed in this text file. To log out of the system, the user must press 4. If the user clicks on numbers other than those in the menu, the user is warned.
