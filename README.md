@@ -2,7 +2,7 @@
 I prepared this project in the Python Boothcamp program, which was held in cooperation with Akbank and Global AI Hub.
 
 
-1) In this project, an interactive library system was designed. When logging into the system, the user is greeted by a menu with a welcome message.
+1)  In this project, an interactive library system was designed. When logging into the system, the user is greeted by a menu with a welcome message.
 
 ***********************
 WELCOME TO LIBRARY
